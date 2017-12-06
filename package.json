@@ -1,0 +1,13 @@
+{
+  "name": "web-scraper-nodejs",
+  "version": "0.0.1",
+  "description": "Extract web page data.",
+  "main": "index.js",
+  "author": "Xeragus",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "jsonfile": "^4.0.0",
+    "request": "latest"
+  }
+}
